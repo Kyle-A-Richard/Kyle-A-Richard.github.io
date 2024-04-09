@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 gemspec
-gem "mere-blog-theme"
+gem "mere-blog-theme-05"
 gem "jekyll", "~> 3.9"
 
 group :jekyll_plugins do
