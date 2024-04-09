@@ -7,7 +7,7 @@ description: >
 baseurl: "/mere-blog-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
-theme: mere-blog-theme
+theme: mere-blog-theme-05
 
 paginate: 6
 paginate_path: "/page:num"
