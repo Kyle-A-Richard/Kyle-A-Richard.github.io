@@ -1,0 +1,9 @@
+# Site settings
+title: Project Portfolio
+author:
+  name: Kyle Richard
+  email: KyleARichard@gmail.com
+description: "Project Portfolio for Kyle Richard."
+
+# Build settings
+remote_theme: mere-blog-theme
